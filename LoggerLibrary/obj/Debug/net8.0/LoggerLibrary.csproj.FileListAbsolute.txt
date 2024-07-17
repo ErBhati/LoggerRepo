@@ -1,0 +1,5 @@
+D:\Test\LoggerTest\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.csproj.AssemblyReference.cache
+D:\Test\LoggerTest\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\LoggerTest\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.AssemblyInfoInputs.cache
+D:\Test\LoggerTest\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.AssemblyInfo.cs
+D:\Test\LoggerTest\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.csproj.CoreCompileInputs.cache
